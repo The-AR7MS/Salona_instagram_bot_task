@@ -88,7 +88,7 @@ uvicorn main:app --reload
 
 ## راهنمای تصویری تست ربات 📸
 ![Screenshot 1](https://github.com/The-AR7MS/Salona_instagram_bot_task/blob/main/Screenshot%202025-10-23%20084650.png)
-![Screenshot 2](https://github.com/The-AR7MS/Salona_instagram_bot_task/blob/main/Screenshot%202025-10-23%20084650.png)
-![Screenshot 3](https://github.com/The-AR7MS/Salona_instagram_bot_task/blob/main/Screenshot%202025-10-23%20084650.png)
-![Screenshot 4](https://github.com/The-AR7MS/Salona_instagram_bot_task/blob/main/Screenshot%202025-10-23%20084650.png)
-![Screenshot 5](https://github.com/The-AR7MS/Salona_instagram_bot_task/blob/main/Screenshot%202025-10-23%20084650.png)
+![Screenshot 2](https://github.com/The-AR7MS/Salona_instagram_bot_task/blob/main/Screenshot%202025-10-23%20084714.png)
+![Screenshot 3](https://github.com/The-AR7MS/Salona_instagram_bot_task/blob/main/Screenshot%202025-10-23%20084802.png)
+![Screenshot 4](https://github.com/The-AR7MS/Salona_instagram_bot_task/blob/main/Screenshot%202025-10-23%20084923.png)
+![Screenshot 5](https://github.com/The-AR7MS/Salona_instagram_bot_task/blob/main/Screenshot%202025-10-23%20084956.png)
