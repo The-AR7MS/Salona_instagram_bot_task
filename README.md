@@ -87,7 +87,7 @@ uvicorn main:app --reload
 5.  **مشاهده نتیجه:** کمی پایین‌تر، در بخش "Server response"، می‌توانید پاسخی که ربات بر اساس سؤال شما تولید کرده است را مشاهده کنید. 🎉
 
 ## راهنمای تصویری تست ربات 📸
-![Screenshot 1]([https://github.com/The-AR7MS/Product-Sales-Management/blob/main/Screenshot%202025-10-22%20093516.png](https://github.com/The-AR7MS/Salona_instagram_bot_task/blob/main/Screenshot%202025-10-23%20084650.png))
+![Screenshot 1](https://github.com/The-AR7MS/Salona_instagram_bot_task/blob/main/Screenshot%202025-10-23%20084556.png)
 
 
 
